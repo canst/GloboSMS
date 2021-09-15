@@ -1,4 +1,4 @@
-package com.sriyank.globochat
+package com.example.globosms
 
 import android.os.Bundle
 import android.view.*
